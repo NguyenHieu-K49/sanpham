@@ -1,0 +1,35 @@
+#c{
+    border: 3px solid goldenrod;
+    text-align: center;
+    font-size: xx-large;
+    margin: 4px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#a{
+    border: 3px solid goldenrod;
+    text-align: center;
+}
+#b{
+    border: 3px solid goldenrod;
+    text-align: center;
+    margin: 40px 150px 40px 150px;
+}
+#d{
+    float: left;
+    border: 3px solid goldenrod;
+    font-size: 100px;
+    margin: 460px -10px 10px 10px;
+    text-shadow: 90%;
+    color: rgba(188, 181, 181, 0.879);
+}
+#e{
+    float:bottom;
+    float: right;
+    border: 3px solid goldenrod;
+    margin: 200px -155px 3px 300px;
+}
+#g{
+    float:right;
+    border: 3px solid goldenrod;
+    margin: 10px 10px 0px 0px;
+}
